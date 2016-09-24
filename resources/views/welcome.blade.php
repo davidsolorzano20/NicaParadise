@@ -4,19 +4,42 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <!--|Site Title|-->
     <title>Welcome to Nicaraguan Paradise Tours</title>
 
-    {!! Html::style('assets/css/css.css') !!}
-    {!! Html::style('assets/css/font-awesome.min.css') !!}
-    {!! Html::style('assets/css/vegas.min.css"') !!}
-    {!! Html::style('assets/css/reImageGrid.css') !!}
-    {!! Html::style('assets/css/magnific-popup.css') !!}
-    {!! Html::style('assets/css/owl.carousel.css') !!}
-    {!! Html::style('assets/css/bootstrap.min.css') !!}
-    {!! Html::style('assets/css/style.css') !!}
-    {!! Html::style('assets/images/favicon.ico') !!}
-    {!! Html::script('assets/js/html5shiv.min.js') !!}
-    {!! Html::script('assets/js/respond.min.js') !!}
+    <!--|Google Font(Lato)|-->
+    <link href='assets/css/css.css' rel='stylesheet' type='text/css'>
+    <!--|Font Icon(Font Awesome)|-->
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!--|Vegas|-->
+    <link href="assets/css/vegas.min.css" rel="stylesheet" type="text/css">
+    <!--|reImageGrid|-->
+    <link href="assets/css/reImageGrid.css" rel="stylesheet" type="text/css">
+    <!--|Magnific Popup|-->
+    <link href="assets/css/magnific-popup.css" rel="stylesheet" type="text/css">
+    <!--|Owl Carousel|-->
+    <link href="assets/css/owl.carousel.css" rel="stylesheet" type="text/css">
+    <!--|Bootstrap|-->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+    <!--|Site Stylesheet|-->
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+
+    <!--|Favicon|-->
+    <link rel="icon" href="assets/images/favicon.ico">
+    <!-- Touch Icons -->
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/images/apple-touch-icon-114x114.png">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="assets/js/html5shiv.min.js"></script>
+    <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
 </head>
 
 <body class="home">
@@ -39,7 +62,7 @@
                 <div class="row">
                     <div class="block-center col-md-8 text-center">
                         <a class="site-logo smooth-loading-link" href="{!! url('/') !!}">
-                            <img src="assets/images/log.png" alt="assets" style="width: 190px;height: 190px">
+                            <img src="assets/images/log.png" alt="Focus" style="width: 190px;height: 190px">
                         </a>
 
                         <h3 class="intro-title" style="margin-top: -50px;font-family: Lato">NICARAGUAN PARADISE TOURS</h3>
@@ -64,18 +87,33 @@
     </div>
 </div> <!--|End Wrapper|-->
 
-{!! Html::script('assets/js/jquery.min.js') !!}
-{!! Html::script('assets/js/modernizr.custom.26633.js') !!}
-{!! Html::script('assets/js/jquery.fitvids.js') !!}
-{!! Html::script('assets/js/vegas.min.js') !!}
-{!! Html::script('assets/js/EasePack.min.js') !!}
-{!! Html::script('assets/js/TweenLite.min.js') !!}
-{!! Html::script('assets/js/jquery.gridrotator.js') !!}
-{!! Html::script('assets/js/jquery.magnific-popup.min.js') !!}
-{!! Html::script('assets/js/owl.carousel.min.js') !!}
-{!! Html::script('assets/js/bootstrap.min.js') !!}
-{!! Html::script('assets/js/animatedBackground.js') !!}
-{!! Html::script('assets/js/init.js') !!}
+<!--||Javascript||-->
+<!--|Jquery|-->
+<script src="assets/js/jquery.min.js"></script>
+<!--|Mordernizer Custom Js|-->
+<script type="text/javascript" src="assets/js/modernizr.custom.26633.js"></script>
+<!--|Google Map Api|-->
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+<!--|Fitvids|-->
+<script src="assets/js/jquery.fitvids.js"></script>
+<!--|Vegas|-->
+<script src="assets/js/vegas.min.js"></script>
+<!--|EasePack|-->
+<script src="assets/js/EasePack.min.js"></script>
+<!--|TweenLite|-->
+<script src="assets/js/TweenLite.min.js"></script>
+<!--|Gird Rotator|-->
+<script src="assets/js/jquery.gridrotator.js"></script>
+<!--|Magnific Popup|-->
+<script src="assets/js/jquery.magnific-popup.min.js"></script>
+<!--|Owl Carousel|-->
+<script src="assets/js/owl.carousel.min.js"></script>
+<!--|Bootstrap|-->
+<script src="assets/js/bootstrap.min.js"></script>
+<!--|Animated Background|-->
+<script src="assets/js/animatedBackground.js"></script>
+<!--|Site Custom Js|-->
+<script src="assets/js/init.js"></script>
 
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
