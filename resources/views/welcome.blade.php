@@ -23,7 +23,7 @@
         <div>
             <img src="assets/images/log.png" style="width: 90px;height: 90px"/>
         </div>
-        <span class="fp-meta">Loading Homepage...</span>
+        <span class="fp-meta">Loading Nicaraguan...</span>
     </div>
 </div>
 <!--|End Preloader|-->
