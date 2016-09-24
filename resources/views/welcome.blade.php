@@ -9,24 +9,7 @@
     <title>Welcome to Nicaraguan Paradise Tours</title>
 
     <!--|Google Font(Lato)|-->
-    <link href='assets/css/css.css' rel='stylesheet' type='text/css'>
-    <!--|Font Icon(Font Awesome)|-->
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-
-    <!--|Vegas|-->
-    <link href="assets/css/vegas.min.css" rel="stylesheet" type="text/css">
-    <!--|reImageGrid|-->
-    <link href="assets/css/reImageGrid.css" rel="stylesheet" type="text/css">
-    <!--|Magnific Popup|-->
-    <link href="assets/css/magnific-popup.css" rel="stylesheet" type="text/css">
-    <!--|Owl Carousel|-->
-    <link href="assets/css/owl.carousel.css" rel="stylesheet" type="text/css">
-    <!--|Bootstrap|-->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-
-    <!--|Site Stylesheet|-->
-    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
-    <link href="/css/app.css" rel="stylesheet" type="text/css">
+    <link href='/css/style.css' rel='stylesheet' type='text/css'>
 
     <!--|Favicon|-->
     <link rel="icon" href="assets/images/favicon.ico">
