@@ -64,7 +64,7 @@
         <div class="intro-section">
             <div class="container">
                 <div class="row">
-                    <div class="block-center col-md-8 text-center">
+                    <div class="block-center col-md-12 text-center">
                         <a class="site-logo smooth-loading-link" href="{!! url('/') !!}">
                             <img src="assets/images/log.png" alt="Focus" style="width: 190px;height: 190px">
                         </a>
