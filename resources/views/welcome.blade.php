@@ -12,38 +12,10 @@
 
     <title>Welcome to Nicaraguan Paradise Tours</title>
 
-    <!--|Google Font(Lato)|-->
-    <link href='assets/css/css.css' rel='stylesheet' type='text/css'>
-    <!--|Font Icon(Font Awesome)|-->
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    {!! Html::style('/css/style.css') !!}
 
-    <!--|Vegas|-->
-    <link href="assets/css/vegas.min.css" rel="stylesheet" type="text/css">
-    <!--|reImageGrid|-->
-    <link href="assets/css/reImageGrid.css" rel="stylesheet" type="text/css">
-    <!--|Magnific Popup|-->
-    <link href="assets/css/magnific-popup.css" rel="stylesheet" type="text/css">
-    <!--|Owl Carousel|-->
-    <link href="assets/css/owl.carousel.css" rel="stylesheet" type="text/css">
-    <!--|Bootstrap|-->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-
-    <!--|Site Stylesheet|-->
-    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
-
-    <!--|Favicon|-->
-    <link rel="icon" href="assets/images/favicon.ico">
-    <!-- Touch Icons -->
-    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="assets/images/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="assets/images/apple-touch-icon-114x114.png">
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
     <script src="assets/js/html5shiv.min.js"></script>
     <script src="assets/js/respond.min.js"></script>
-    <![endif]-->
 </head>
 
 <body class="home">
