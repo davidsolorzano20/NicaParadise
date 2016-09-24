@@ -9,14 +9,23 @@
     <title>Welcome to Nicaraguan Paradise Tours</title>
 
     <!--|Google Font(Lato)|-->
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href='assets/css/css.css' rel='stylesheet' type='text/css'>
+    <!--|Font Icon(Font Awesome)|-->
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
-    <!-- Optional theme -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <!--|Vegas|-->
+    <link href="assets/css/vegas.min.css" rel="stylesheet" type="text/css">
+    <!--|reImageGrid|-->
+    <link href="assets/css/reImageGrid.css" rel="stylesheet" type="text/css">
+    <!--|Magnific Popup|-->
+    <link href="assets/css/magnific-popup.css" rel="stylesheet" type="text/css">
+    <!--|Owl Carousel|-->
+    <link href="assets/css/owl.carousel.css" rel="stylesheet" type="text/css">
+    <!--|Bootstrap|-->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
-    <!-- Latest compiled and minified JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <!--|Site Stylesheet|-->
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
 
     <!--|Favicon|-->
     <link rel="icon" href="assets/images/favicon.ico">
@@ -52,7 +61,7 @@
             <div class="container">
                 <div class="row">
                     <div class="block-center col-md-8 text-center">
-                        <a class="site-logo smooth-loading-link" href="index.html">
+                        <a class="site-logo smooth-loading-link" href="{!! url('/') !!}">
                             <img src="assets/images/log.png" alt="Focus" style="width: 190px;height: 190px">
                         </a>
 
