@@ -1,0 +1,25 @@
+.intro-section {
+  width: 100%;
+  &, a,
+  h1, h2,
+  h3, h4,
+  h5, h6 {
+    color: #FFFFFF;
+  }
+  .intro-title {
+    font-size: 2em;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+}
+@media screen and (min-width: 640px) {
+  .intro-section {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    @include transform(translateY(-50%));
+    .intro-title {
+      font-size: 3em;
+    }
+  }
+}
