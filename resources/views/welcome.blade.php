@@ -12,10 +12,8 @@
 
     <title>Welcome to Nicaraguan Paradise Tours</title>
 
-    {!! Html::style('/css/style.css') !!}
+    {!! Html::style('/css/welcome.css') !!}
 
-    <script src="assets/js/html5shiv.min.js"></script>
-    <script src="assets/js/respond.min.js"></script>
 </head>
 
 <body class="home">
@@ -63,33 +61,18 @@
     </div>
 </div> <!--|End Wrapper|-->
 
-<!--||Javascript||-->
-<!--|Jquery|-->
-<script src="assets/js/jquery.min.js"></script>
-<!--|Mordernizer Custom Js|-->
-<script type="text/javascript" src="assets/js/modernizr.custom.26633.js"></script>
-<!--|Google Map Api|-->
-<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
-<!--|Fitvids|-->
-<script src="assets/js/jquery.fitvids.js"></script>
-<!--|Vegas|-->
-<script src="assets/js/vegas.min.js"></script>
-<!--|EasePack|-->
-<script src="assets/js/EasePack.min.js"></script>
-<!--|TweenLite|-->
-<script src="assets/js/TweenLite.min.js"></script>
-<!--|Gird Rotator|-->
-<script src="assets/js/jquery.gridrotator.js"></script>
-<!--|Magnific Popup|-->
-<script src="assets/js/jquery.magnific-popup.min.js"></script>
-<!--|Owl Carousel|-->
-<script src="assets/js/owl.carousel.min.js"></script>
-<!--|Bootstrap|-->
-<script src="assets/js/bootstrap.min.js"></script>
-<!--|Animated Background|-->
-<script src="assets/js/animatedBackground.js"></script>
-<!--|Site Custom Js|-->
-<script src="assets/js/init.js"></script>
+{!! Html::script('assets/js/a.js') !!}
+{!! Html::script('assets/js/b.js') !!}
+{!! Html::script('assets/js/c.js') !!}
+{!! Html::script('assets/js/d.js') !!}
+{!! Html::script('assets/js/e.js') !!}
+{!! Html::script('assets/js/f.js') !!}
+{!! Html::script('assets/js/g.js') !!}
+{!! Html::script('assets/js/h.js') !!}
+{!! Html::script('assets/js/i.js') !!}
+{!! Html::script('assets/js/j.js') !!}
+{!! Html::script('assets/js/k.js') !!}
+{!! Html::script('assets/js/l.js') !!}
 
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

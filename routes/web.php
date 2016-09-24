@@ -11,6 +11,14 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'NicaraguanController@Index');
+Route::get('home', 'NicaraguanController@Home');
+/*Route::get('whyus', 'NicaraguanController@Index');
+Route::get('tour/', 'NicaraguanController@Index');
+Route::get('/', 'NicaraguanController@Index');
+Route::get('/', 'NicaraguanController@Index');
+Route::get('/', 'NicaraguanController@Index');
+Route::get('/', 'NicaraguanController@Index');
+Route::get('/', 'NicaraguanController@Index');
+Route::get('/', 'NicaraguanController@Index');
+Route::get('/', 'NicaraguanController@Index');*/
