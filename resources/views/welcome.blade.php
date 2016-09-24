@@ -26,6 +26,7 @@
 
     <!--|Site Stylesheet|-->
     <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+    <link href="/css/app.css" rel="stylesheet" type="text/css">
 
     <!--|Favicon|-->
     <link rel="icon" href="assets/images/favicon.ico">
