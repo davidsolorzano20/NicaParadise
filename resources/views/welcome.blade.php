@@ -21,9 +21,9 @@
 <div id="preloader" class="preloader">
     <div class="preloader-inner">
         <div>
-            <div></div>
+            <img src="assets/images/log.png" style="width: 90px;height: 90px"/>
         </div>
-        <span class="fp-meta">Loading...</span>
+        <span class="fp-meta">Loading Homepage...</span>
     </div>
 </div>
 <!--|End Preloader|-->
