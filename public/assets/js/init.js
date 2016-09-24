@@ -37,14 +37,14 @@
 
     $vegasSlide.vegas({
       slides: [
-        {src: "http://laravel.dev/assets/images/1.jpg"},
-        {src: "http://laravel.dev/assets/images/nica/1.jpg"},
-        {src: "http://laravel.dev/assets/images/nica/2.jpg"},
-        {src: "http://laravel.dev/assets/images/4.jpg"},
-        {src: "http://laravel.dev/assets/images/nica/3.jpg"},
-        {src: "http://laravel.dev/assets/images/3.jpg"},
-        {src: "http://laravel.dev/assets/images/nica/4.jpg"},
-        {src: "http://laravel.dev/assets/images/nica/5.jpg"},
+        {src: "assets/images/1.jpg"},
+        {src: "assets/images/nica/1.jpg"},
+        {src: "assets/images/nica/2.jpg"},
+        {src: "assets/images/4.jpg"},
+        {src: "assets/images/nica/3.jpg"},
+        {src: "assets/images/3.jpg"},
+        {src: "assets/images/nica/4.jpg"},
+        {src: "assets/images/nica/5.jpg"},
 
       ],
       animation: ['kenburnsUp', 'kenburnsDown', 'kenburnsLeft', 'kenburnsRight']
