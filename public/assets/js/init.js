@@ -37,15 +37,8 @@
 
     $vegasSlide.vegas({
       slides: [
-        {src: "http://nicaraguanparadisetour.com/public/focus/images/1.jpg"},
-        {src: "../images/nica/1.jpg"},
-        {src: "../images/nica/2.jpg"},
-        {src: "../images/4.jpg"},
-        {src: "../focus/images/nica/3.jpg"},
-        {src: "../focus/images/3.jpg"},
-        {src: "../focus/images/nica/4.jpg"},
-        {src: "../focus/images/nica/5.jpg"},
-
+        {src: "http://nicaraguanparadisetour.com/assets/images/nica/1.jpg"},
+        {src: "http://laravel.dev/assets/images/nica/1.jpg"}
       ],
       animation: ['kenburnsUp', 'kenburnsDown', 'kenburnsLeft', 'kenburnsRight']
     });
