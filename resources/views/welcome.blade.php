@@ -43,7 +43,7 @@
                         <p class="sub-title" style="margin-top: -25px;">Meeting your expectations...</p>
 
                         <div class="btn-group smooth-loading">
-                            <a class="btn btn-success" href="#id"><i class="fa fa-th-large"></i> Explore More</a>
+                            <a class="btn btn-success" href="{!! url('/home') !!}"><i class="fa fa-th-large"></i> Explore More</a>
                         </div>
                     </div>
                 </div>
@@ -61,18 +61,18 @@
     </div>
 </div> <!--|End Wrapper|-->
 
-{!! Html::script('assets/js/a.js') !!}
-{!! Html::script('assets/js/b.js') !!}
-{!! Html::script('assets/js/c.js') !!}
-{!! Html::script('assets/js/d.js') !!}
-{!! Html::script('assets/js/e.js') !!}
-{!! Html::script('assets/js/f.js') !!}
-{!! Html::script('assets/js/g.js') !!}
-{!! Html::script('assets/js/h.js') !!}
-{!! Html::script('assets/js/i.js') !!}
-{!! Html::script('assets/js/j.js') !!}
-{!! Html::script('assets/js/k.js') !!}
-{!! Html::script('assets/js/l.js') !!}
+{!! Html::script('assets/js/welcome/a.js') !!}
+{!! Html::script('assets/js/welcome/b.js') !!}
+{!! Html::script('assets/js/welcome/c.js') !!}
+{!! Html::script('assets/js/welcome/d.js') !!}
+{!! Html::script('assets/js/welcome/e.js') !!}
+{!! Html::script('assets/js/welcome/f.js') !!}
+{!! Html::script('assets/js/welcome/g.js') !!}
+{!! Html::script('assets/js/welcome/h.js') !!}
+{!! Html::script('assets/js/welcome/i.js') !!}
+{!! Html::script('assets/js/welcome/j.js') !!}
+{!! Html::script('assets/js/welcome/k.js') !!}
+{!! Html::script('assets/js/welcome/l.js') !!}
 
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
