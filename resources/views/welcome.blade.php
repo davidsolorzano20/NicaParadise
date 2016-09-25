@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="author" content="Luis Solorzano - Ing.Telematica">
@@ -10,7 +12,8 @@
     <link rel="apple-touch-icon" href="assets/images/log.png">
     <link rel="icon" href="assets/images/log.png">
 
-    <title>Welcome to Nicaraguan Paradise Tours</title>
+
+    <title>Welcome - Nicaraguan Paradise Tours</title>
 
     {!! Html::style('/css/welcome.css') !!}
 
