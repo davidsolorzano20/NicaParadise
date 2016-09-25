@@ -72,6 +72,7 @@
 {!! Html::script('assets/js/welcome/i.js') !!}
 {!! Html::script('assets/js/welcome/j.js') !!}
 {!! Html::script('assets/js/welcome/k.js') !!}
+{!! Html::script('/js/vegas.min.js') !!}
 {!! Html::script('assets/js/welcome/l.js') !!}
 
 <script>
