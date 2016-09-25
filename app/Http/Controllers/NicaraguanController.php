@@ -8,7 +8,7 @@ use App\Http\Requests;
 
 class NicaraguanController extends Controller {
     public function Index() {
-      return view('welcome');
+      return view('welcometo');
     }
 
     public function Home() {
