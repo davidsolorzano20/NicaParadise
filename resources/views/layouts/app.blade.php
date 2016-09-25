@@ -14,10 +14,10 @@
 
     {!! Html::style('/css/style.css') !!}
 
-    <script src="https://use.fontawesome.com/216d67c8bd.js"></script>
+    {{--<script src="https://use.fontawesome.com/216d67c8bd.js"></script>--}}
 
 </head>
-<body id="home" style="background-image: url(assets/background/background)">
+<body id="home">
 
 <div id="loading-homepage">
     <img src=""/>
@@ -102,7 +102,7 @@
 </div>
 
 <div class="container-fluid">
-    <div class="col-md-6 col-lg-6">
+    <div class="col-md-6 col-lg-6 welcome-to-nica" style="background-image: url(slider/3.jpg)">
     </div>
 
     <div class="col-md-6 col-lg-6">
@@ -111,7 +111,7 @@
 
 
 <div class="container">
-  {{--  <footer>
+    <footer>
         <div class="row">
             <div class="col-lg-12">
 
@@ -132,7 +132,6 @@
         </div>
 
     </footer>
---}}
 
 </div>
 

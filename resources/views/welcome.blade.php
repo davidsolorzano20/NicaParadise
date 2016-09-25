@@ -74,6 +74,7 @@
 {!! Html::script('assets/js/welcome/k.js') !!}
 {!! Html::script('/js/vegas.min.js') !!}
 {!! Html::script('assets/js/welcome/l.js') !!}
+<script src="https://use.fontawesome.com/216d67c8bd.js"></script>
 
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
