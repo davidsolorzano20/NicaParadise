@@ -6,8 +6,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="author" content="Luis Solorzano - Ing.Telematica">
-    <meta name="description" content="Nicaraguan, Paradise, Tours">
-    <meta name="keywords" content="nicaraguan, paradise, ours">
+    <meta name="description" content="Nicaraguan Paradise Tours">
+    <meta name="keywords" content="nicaraguan, paradise, Tours">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="apple-touch-icon" href="assets/images/log.png">
     <link rel="icon" href="assets/images/log.png">
