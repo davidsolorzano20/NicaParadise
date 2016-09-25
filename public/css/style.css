@@ -9523,3 +9523,20 @@ body.vegas-container > .vegas-overlay, body.vegas-container > .vegas-slide, body
   margin: 0;
   overflow: visible;
   clip: auto; }
+
+.center {
+  text-align: center; }
+
+.justify {
+  text-justify: auto;
+  text-align: justify; }
+
+.welcome-home {
+  background: #001a5a;
+  /* background: #286090;*/
+  color: #ffffff;
+  line-height: 1.5; }
+
+.border-bottom {
+  box-shadow: 0 4px 2px -2px #001a5a;
+  border-bottom: 1px solid #001a5a; }

@@ -23,7 +23,7 @@
     <img src=""/>
 </div>
 
-<div class="navbar navbar-default navbar-fixed-top">
+<div class="navbar navbar-default navbar-fixed-top border-bottom">
     <div class="container">
         <div class="navbar-header">
             <a href="{!! url('/home') !!}" class="navbar-brand"><img src="assets/images/npt.png"></a>
@@ -96,8 +96,17 @@
         </footer>
 </div>
 
-<div class="container">
+<div class="container-fluid  welcome-home">
+    <h1 class="center">Welcome to Nicaraguan Paradise Tours</h1>
+    <br>
+</div>
 
+<div class="container-fluid">
+    <div class="col-md-6 col-lg-6">
+    </div>
+
+    <div class="col-md-6 col-lg-6">
+    </div>
 </div>
 
 
