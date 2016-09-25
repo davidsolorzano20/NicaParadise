@@ -20,6 +20,8 @@
 </head>
 
 <body class="home">
+
+
 <!--|Preloader|-->
 <div id="preloader" class="preloader">
     <div class="preloader-inner">
@@ -63,6 +65,66 @@
         </footer> <!--|End Footer|-->
     </div>
 </div> <!--|End Wrapper|-->
+
+
+<div class="navbar navbar-default navbar-fixed-top border-bottom" style="visibility: hidden">
+    <div class="container">
+        <div class="navbar-header">
+            <a href="{!! url('/home') !!}" class="navbar-brand"><img src="assets/images/npt.png"></a>
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="#">
+                        <i class="fa fa-home"></i>
+                        Home
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="fa fa-info-circle icons text-teal"></i>
+                        Why Us
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="fa fa-sun-o icons text-warnin"></i>
+                        Tour
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="fa fa-shopping-bag icons text-succes"></i>
+                        Packages
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="fa fa-shopping-basket icons text-dange"></i>
+                        Camping
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="fa fa-photo icons text-inf"></i>
+                        Photo Gallery
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="fa fa-clone icons text-accent"></i>
+                        Custom Letter's
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
 
 {!! Html::script('assets/js/welcome/a.js') !!}
 {!! Html::script('assets/js/welcome/b.js') !!}
