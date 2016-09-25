@@ -18,6 +18,37 @@
 }
 .welcome-to-nica {
   height: 400px;
-  background-size: 100% 100%;
+  background-size: 100%;
+  background-attachment: local;
 }
+.border-right {
+  border-right: gray;
 
+}
+.border-left {
+  border-right: 2px solid white;
+}
+.color-nica {
+  color: #001a5a;
+}
+.background-nica {
+  background: #001a5a;
+  color: #ffffff;
+}
+.color-nica2 {
+  color: #6bccb4 !important;
+}
+.text-nica-1 {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+h2.border-text-nica-1 {
+  border-bottom: 2px solid #18bc9c;
+  border-bottom-width: 3px;
+  width: 80%;
+}
+h2.border-text-nica-2 {
+  border-bottom: 2px solid #18bc9c;
+  border-bottom-width: 3px;
+  width: 70%;
+}
