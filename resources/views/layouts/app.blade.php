@@ -56,7 +56,7 @@
                     <ul class="dropdown-menu nica-dropdow-menu ">
                         <li class="dropdown-submenu">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Half Day Tours</a>
-                            <ul class="dropdown-menu">
+                            <ul class="dropdown-menu nica-dropdow-menu">
                                 <li><a href="#">Ash Boarding in Cerro Cegro</a></li>
                                 <li><a href="#">Volcano Telica</a></li>
                                 <li><a href="">Juan Venado Nature Reserve</a></li>
@@ -70,7 +70,7 @@
                         </li>
                         <li class="dropdown-submenu">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">One Day Tours</a>
-                            <ul class="dropdown-menu">
+                            <ul class="dropdown-menu nica-dropdow-menu">
                                 <li><a href="#">Cerro Negro + Asosca Lagoon + León Viejo</a></li>
                                 <li><a href="#">El Hoyo Volcano + Volcano Boarding</a></li>
                                 <li><a href="#">San Cristobal Volcano</a></li>

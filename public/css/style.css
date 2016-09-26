@@ -9575,13 +9575,13 @@ h2.border-text-nica-2 {
   width: 70%; }
 
 ul.nica-dropdow-menu {
-  margin-top: 2.6px; }
+  margin-top: 2.6px;
+  background-color: rgba(255, 255, 255, 0.95); }
 
 ul.dropdown-menu > li > a {
   color: #18bc9c;
-  height: 30px;
-  /*border-bottom: 1px solid #d3e0e9;*/ }
+  height: 30px; }
   ul.dropdown-menu > li > a:hover {
     color: orange;
-    background: transparent;
+    background-color: rgba(255, 255, 255, 0.95);
     margin-left: 1px; }
