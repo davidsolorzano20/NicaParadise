@@ -13,7 +13,7 @@
     <title>@yield('title')</title>
 
     {!! Html::style('/css/style.css') !!}
-
+    <link href="https://fonts.googleapis.com/css?family=Alex+Brush" rel="stylesheet">
     <script src="https://use.fontawesome.com/216d67c8bd.js"></script>
 
 </head>
@@ -200,7 +200,7 @@
 
 </div>
 
-<div class="container-fluid welcome-to-nica" style="background-image: url(/assets/images/nica/4.jpg)">
+<div class="container-fluid welcome-to-nica" id="lluvia" style="background-image: url(/assets/images/nica/4.jpg)">
     <h1 class="discover-nica">Discover the beauty of Nicaragua</h1>
 </div>
 <div class="container-fluid">
@@ -270,8 +270,32 @@
             </div>
         </div>
     </div>
+    <br><br>
+</div>
+
+<div class="container-fluid welcome-to-nica" id="lluvia" style="background-image: url(/assets/images/nica/1.jpg)">
+    <h1 class="adventure-nica">Maximum Adventure</h1>
 </div>
 <br>
+<br>
+<br>
+{{--
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="/img-homepage/5.jpg" alt="...">
+                <div class="caption">
+                    <h3>Thumbnail label</h3>
+                    <p>...</p>
+                    <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+--}}
+
 {{--
 
 
@@ -304,7 +328,8 @@
     </footer>
 
 
-</div>--}}
+</div>
+--}}
 
 
 
@@ -367,6 +392,7 @@
 </div>
 
 {!! Html::script('/js/jquery.js') !!}
+{!! Html::script('/js/bootstrap.js') !!}
 {!! Html::script('/js/bootstrap.js') !!}
 {!! Html::script('/js/script.js') !!}
 {!! Html::script('/js/vegas.min.js') !!}
