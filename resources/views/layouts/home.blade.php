@@ -16,6 +16,7 @@
     <title>@yield('title')</title>
 
     {!! Html::style('/css/welcome.css') !!}
+    <link href="https://fonts.googleapis.com/css?family=Alex+Brush" rel="stylesheet">
 
 </head>
 <body class="home">

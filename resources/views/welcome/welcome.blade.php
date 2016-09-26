@@ -27,11 +27,20 @@
                             <img src="assets/images/log.png" alt="Focus" style="width: 190px;height: 190px">
                         </a>
 
-                        <h3 class="intro-title" style="margin-top: -50px;font-family: Lato">NICARAGUAN PARADISE TOURS</h3>
-                        <p class="sub-title" style="margin-top: -25px;">Meeting your expectations...</p>
+                        <h3 style="margin-top: -50px;font-size: 6em;text-shadow: 3px 3px 3px #001a5a;
+                        font-family: 'Alex Brush', cursive;">
+                            Nicaraguan Paradise Tours
+                        </h3>
+                        <p class="sub-title" style="margin-top: -29px;font-size: 2em;text-shadow: 3px 3px 3px #001a5a;
+                        font-family: 'Alex Brush', cursive;">
+                            Meeting your expectations...
+                        </p>
 
                         <div class="btn-group smooth-loading">
-                            <a class="btn btn-success" href="{!! url('/home') !!}"><i class="fa fa-th-large"></i> Explore More</a>
+                            <a class="btn btn-success" href="{!! url('/home') !!}">
+                                <i class="fa fa-th-large"></i>
+                                Explore More
+                            </a>
                         </div>
                     </div>
                 </div>
