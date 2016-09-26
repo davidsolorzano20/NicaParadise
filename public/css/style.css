@@ -9542,7 +9542,9 @@ body.vegas-container > .vegas-overlay, body.vegas-container > .vegas-slide, body
 .welcome-to-nica {
   height: 400px;
   background-size: 100%;
-  background-attachment: fixed; }
+  background-attachment: fixed;
+  border-top: 2px solid #d3e0e9;
+  border-bottom: 2px solid #d3e0e9; }
 
 .border-right {
   border-right: gray; }
@@ -9596,8 +9598,9 @@ ul.dropdown-menu > li > a {
 .img-homepage {
   width: 80px;
   height: 80px;
-  margin-top: 45px;
-  background-size: contain; }
+  margin-top: 25px;
+  background-size: contain;
+  border: 3px solid #d3e0e9; }
 
 .title-img-homepage {
   color: #18bc9c;
@@ -9608,4 +9611,7 @@ ul.dropdown-menu > li > a {
   padding-right: 20px;
   padding-left: 20px;
   color: #001a5a;
-  font-size: 1.2em; }
+  font-size: 1em; }
+
+.nica-container-fluid {
+  border-top: 2px solid #d3e0e9; }

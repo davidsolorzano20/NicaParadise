@@ -152,7 +152,7 @@
     <br>
 </div>
 
-<div class="container-fluid">
+<div class="container-fluid nica-container-fluid">
     <div class="col-lg-6">
         <div class="row">
             <h2 class="color-nica col-md-offset-1 col-lg-offset-1 border-text-nica-1">
@@ -207,7 +207,7 @@
     <div class="row">
         <div class="col-md-4 col-lg-4">
             <div class="center">
-                <img src="/assets/images/nica/4.jpg" class="img-circle img-homepage"/>
+                <img src="/img-homepage/1.jpg" class="img-circle img-homepage"/>
             </div>
             <div class="center title-img-homepage">City Tour Le&oacute;n</div>
             <div class="center justify body-img-homepage">
@@ -217,7 +217,7 @@
         </div>
         <div class="col-md-4 col-lg-4">
             <div class="center">
-                <img src="/assets/images/nica/4.jpg" class="img-circle img-homepage"/>
+                <img src="/img-homepage/2.jpg" class="img-circle img-homepage"/>
             </div>
             <div class="center title-img-homepage">Ruins of Le&oacute;n Viejo</div>
             <div class="center justify body-img-homepage">
@@ -227,7 +227,7 @@
         </div>
         <div class="col-md-4 col-lg-4">
             <div class="center">
-                <img src="/assets/images/nica/4.jpg" class="img-circle img-homepage"/>
+                <img src="/img-homepage/3.jpg" class="img-circle img-homepage"/>
             </div>
             <div class="center title-img-homepage">Juan Venado Nature Reserve</div>
             <div class="center justify body-img-homepage">
@@ -239,37 +239,38 @@
     <div class="row">
         <div class="col-md-4 col-lg-4">
             <div class="center">
-                <img src="/assets/images/nica/4.jpg" class="img-circle img-homepage"/>
+                <img src="/img-homepage/6.jpg" class="img-circle img-homepage"/>
             </div>
-            <div class="center title-img-homepage">Juan Venado Nature Reserve</div>
+            <div class="center title-img-homepage">Volcan T&eacute;lica!</div>
             <div class="center justify body-img-homepage">
-                If you consider yourself a nature lover this is the ideal tour for you.
+                Telica Volcano will guaranteed yoy one of the most amazing views
+                from the top, not only for the impressive crater of 700 mts diameters.
             </div>
         </div>
 
         <div class="col-md-4 col-lg-4">
             <div class="center">
-                <img src="/assets/images/nica/4.jpg" class="img-circle img-homepage"/>
+                <img src="/img-homepage/4.jpg" class="img-circle img-homepage"/>
             </div>
-            <div class="center title-img-homepage">Juan Venado Nature Reserve</div>
+            <div class="center title-img-homepage">El Hoyo Volcano!</div>
             <div class="center justify body-img-homepage">
-                If you consider yourself a nature lover this is the ideal tour for you.
+                If looking for not such an easy like with a really worthy view
+                of Nicaragua? Welcome to Hoyo Volcano.
             </div>
         </div>
 
         <div class="col-md-4 col-lg-4">
             <div class="center">
-                <img src="/assets/images/nica/4.jpg" class="img-circle img-homepage"/>
+                <img src="/img-homepage/5.jpg" class="img-circle img-homepage"/>
             </div>
-            <div class="center title-img-homepage">Juan Venado Nature Reserve</div>
+            <div class="center title-img-homepage">San Jacinto Boiling mud!</div>
             <div class="center justify body-img-homepage">
-                If you consider yourself a nature lover this is the ideal tour for you.
+                Experience a unique phenomenan in Nicaragua related to the
+                volcanic activities. Welcome to San Jacinto..
             </div>
         </div>
     </div>
 </div>
-<br>
-<br>
 <br>
 {{--
 
