@@ -201,23 +201,76 @@
 </div>
 
 <div class="container-fluid welcome-to-nica" style="background-image: url(/assets/images/nica/4.jpg)">
-
+    <h1 class="discover-nica">Discover the beauty of Nicaragua</h1>
 </div>
-
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-4 col-lg-4"></div>
-        <div class="col-md-4 col-lg-4"></div>
-        <div class="col-md-4 col-lg-4"></div>
+        <div class="col-md-4 col-lg-4">
+            <div class="center">
+                <img src="/assets/images/nica/4.jpg" class="img-circle img-homepage"/>
+            </div>
+            <div class="center title-img-homepage">City Tour Le&oacute;n</div>
+            <div class="center justify body-img-homepage">
+                If you are always eager to known the History, Culture and Traditions
+                of the town you're visiting, Welcome to Leon City.
+            </div>
+        </div>
+        <div class="col-md-4 col-lg-4">
+            <div class="center">
+                <img src="/assets/images/nica/4.jpg" class="img-circle img-homepage"/>
+            </div>
+            <div class="center title-img-homepage">Ruins of Le&oacute;n Viejo</div>
+            <div class="center justify body-img-homepage">
+                Join us learn with us about one. Of the few UNESCO sites in Nicaragua “ León Viejo ”
+                (old León).
+            </div>
+        </div>
+        <div class="col-md-4 col-lg-4">
+            <div class="center">
+                <img src="/assets/images/nica/4.jpg" class="img-circle img-homepage"/>
+            </div>
+            <div class="center title-img-homepage">Juan Venado Nature Reserve</div>
+            <div class="center justify body-img-homepage">
+                If you consider yourself a nature lover this is the ideal tour for you.
+            </div>
+        </div>
     </div>
 
     <div class="row">
-        <div class="col-md-4 col-lg-4"></div>
-        <div class="col-md-4 col-lg-4"></div>
-        <div class="col-md-4 col-lg-4"></div>
+        <div class="col-md-4 col-lg-4">
+            <div class="center">
+                <img src="/assets/images/nica/4.jpg" class="img-circle img-homepage"/>
+            </div>
+            <div class="center title-img-homepage">Juan Venado Nature Reserve</div>
+            <div class="center justify body-img-homepage">
+                If you consider yourself a nature lover this is the ideal tour for you.
+            </div>
+        </div>
+
+        <div class="col-md-4 col-lg-4">
+            <div class="center">
+                <img src="/assets/images/nica/4.jpg" class="img-circle img-homepage"/>
+            </div>
+            <div class="center title-img-homepage">Juan Venado Nature Reserve</div>
+            <div class="center justify body-img-homepage">
+                If you consider yourself a nature lover this is the ideal tour for you.
+            </div>
+        </div>
+
+        <div class="col-md-4 col-lg-4">
+            <div class="center">
+                <img src="/assets/images/nica/4.jpg" class="img-circle img-homepage"/>
+            </div>
+            <div class="center title-img-homepage">Juan Venado Nature Reserve</div>
+            <div class="center justify body-img-homepage">
+                If you consider yourself a nature lover this is the ideal tour for you.
+            </div>
+        </div>
     </div>
 </div>
-
+<br>
+<br>
+<br>
 {{--
 
 
@@ -253,7 +306,6 @@
 </div>--}}
 
 
-// Mdales
 
 <!-- Modal -->
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">

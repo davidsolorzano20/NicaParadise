@@ -9585,3 +9585,27 @@ ul.dropdown-menu > li > a {
     color: orange;
     background-color: rgba(255, 255, 255, 0.95);
     margin-left: 1px; }
+
+.discover-nica {
+  margin: 85px auto;
+  display: block;
+  text-align: center;
+  color: white;
+  font-size: 7em; }
+
+.img-homepage {
+  width: 80px;
+  height: 80px;
+  margin-top: 45px;
+  background-size: contain; }
+
+.title-img-homepage {
+  color: #18bc9c;
+  font-size: 1.6em;
+  margin-top: 5px; }
+
+.body-img-homepage {
+  padding-right: 20px;
+  padding-left: 20px;
+  color: #001a5a;
+  font-size: 1.2em; }
