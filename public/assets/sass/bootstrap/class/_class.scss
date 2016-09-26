@@ -19,7 +19,7 @@
 .welcome-to-nica {
   height: 400px;
   background-size: 100%;
-  background-attachment: local;
+  background-attachment: fixed;
 }
 .border-right {
   border-right: gray;
@@ -51,4 +51,17 @@ h2.border-text-nica-2 {
   border-bottom: 2px solid #18bc9c;
   border-bottom-width: 3px;
   width: 70%;
+}
+ul.nica-dropdow-menu {
+  margin-top: 2.6px;
+}
+ul.dropdown-menu > li > a {
+  color:#18bc9c;
+  height: 30px;
+  /*border-bottom: 1px solid #d3e0e9;*/
+  &:hover {
+    color: orange;
+    background: transparent;
+    margin-left: 1px;
+  }
 }

@@ -4390,7 +4390,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     box-shadow: none; } }
 
 .navbar-nav > li > .dropdown-menu {
-  margin-top: 0;
+  margin-top: 2.7px;
   border-top-right-radius: 0;
   border-top-left-radius: 0; }
 
@@ -4461,8 +4461,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #ffffff;
-  background-color: #1a242f; }
+  color: orange;
+  /*  background-color: #1a242f;*/ }
 
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -4487,8 +4487,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: #1a242f;
-  color: #ffffff; }
+  /* background-color: #1a242f;*/
+  color: orange; }
 
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
@@ -4500,8 +4500,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #ffffff;
-    background-color: #1a242f; }
+    color: orange;
+    /* background-color: #1a242f;*/ }
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:focus {
@@ -9542,7 +9542,7 @@ body.vegas-container > .vegas-overlay, body.vegas-container > .vegas-slide, body
 .welcome-to-nica {
   height: 400px;
   background-size: 100%;
-  background-attachment: local; }
+  background-attachment: fixed; }
 
 .border-right {
   border-right: gray; }
@@ -9573,3 +9573,15 @@ h2.border-text-nica-2 {
   border-bottom: 2px solid #18bc9c;
   border-bottom-width: 3px;
   width: 70%; }
+
+ul.nica-dropdow-menu {
+  margin-top: 2.6px; }
+
+ul.dropdown-menu > li > a {
+  color: #18bc9c;
+  height: 30px;
+  /*border-bottom: 1px solid #d3e0e9;*/ }
+  ul.dropdown-menu > li > a:hover {
+    color: orange;
+    background: transparent;
+    margin-left: 1px; }

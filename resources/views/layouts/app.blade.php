@@ -48,10 +48,36 @@
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                         <i class="fa fa-sun-o icons text-warnin"></i>
-                        Tour
+                        Tours
+                        <b class="caret"></b>
                     </a>
+                    <ul class="dropdown-menu nica-dropdow-menu ">
+                        <li class="dropdown-submenu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Half Day Tours</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Ash Boarding in Cerro Cegro</a></li>
+                                <li><a href="#">Volcano Telica</a></li>
+                                <li><a href="">Juan Venado Nature Reserve</a></li>
+                                <li><a href="#">City Tour Leon</a></li>
+                                <li> <a href="#">Leon Viejo Ruins and Asososca</a></li>
+                                <li><a href="#">Asososca Horseback Riding</a> </li>
+                                <li><a href="#">San Jacinto Boiling Mud</a> </li>
+                                <li><a href="#">El Hoyo Volcano</a></li>
+                                <li><a href="#">Run Factory Tour</a> </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown-submenu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">One Day Tours</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Cerro Negro + Asosca Lagoon + León Viejo</a></li>
+                                <li><a href="#">El Hoyo Volcano + Volcano Boarding</a></li>
+                                <li><a href="#">San Cristobal Volcano</a></li>
+                                <li><a href="#">Momotombo Volcano</a></li>
+                            </ul>
+                        </li>
+                    </ul>
                 </li>
                 <li>
                     <a href="#">
