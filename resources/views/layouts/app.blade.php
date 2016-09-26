@@ -80,10 +80,35 @@
                     </ul>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                         <i class="fa fa-shopping-bag icons text-succes"></i>
                         Packages
+                        <b class="caret"></b>
                     </a>
+                    <ul class="dropdown-menu nica-dropdow-menu ">
+                        <li class="dropdown-submenu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                Classic Tours
+                            </a>
+                            <ul class="dropdown-menu nica-dropdow-menu">
+                                <li><a href="#">Tours 11 days y 10 nights</a></li>
+                                <li><a href="#">Tours 5 days y 4 nights</a></li>
+                                <li><a href="#">Tours  5 days y 4 nights</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown-submenu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                Adventure Tours
+                            </a>
+                            <ul class="dropdown-menu nica-dropdow-menu">
+                                <li><a href="#">Tours 7 days y 6 nights</a></li>
+                                <li><a href="#">Tours 8 days y 7 nights</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown-submenu">
+                            <a href="#">  Eco-Tourism</a>
+                        </li>
+                    </ul>
                 </li>
                 <li>
                     <a href="#">
