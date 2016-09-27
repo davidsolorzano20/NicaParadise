@@ -393,7 +393,6 @@
 
 {!! Html::script('/js/jquery.js') !!}
 {!! Html::script('/js/bootstrap.js') !!}
-{!! Html::script('/js/bootstrap.js') !!}
 {!! Html::script('/js/script.js') !!}
 {!! Html::script('/js/vegas.min.js') !!}
 {!! Html::script('/js/slider.js') !!}
