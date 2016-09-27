@@ -119,7 +119,7 @@
                 <li>
                     <a href="#">
                         <i class="fa fa-photo icons text-inf"></i>
-                        Photo Gallery
+                        Gallery
                     </a>
                 </li>
                 <li>
