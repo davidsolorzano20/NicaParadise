@@ -276,30 +276,46 @@
 <div class="container-fluid welcome-to-nica" id="lluvia" style="background-image: url(/assets/images/nica/1.jpg)">
     <h1 class="adventure-nica">Maximum Adventure</h1>
 </div>
-<br>
-<br>
-<br>
-{{--
-<div class="container-fluid">
+
+<div class="container-fluid  welcome-home2" style="background: url(assets/background/background.png)">
+    <h1 class="center">Selfies</h1>
     <div class="row">
-        <div class="col-sm-6 col-md-4">
-            <div class="thumbnail">
-                <img src="/img-homepage/5.jpg" alt="...">
-                <div class="caption">
-                    <h3>Thumbnail label</h3>
-                    <p>...</p>
-                    <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
-                </div>
-            </div>
+        <div class="col-md-3 col-lg-3">
+            <img src="/selfies/1.jpg" class="img-thumbnail" />
+        </div>
+        <div class="col-md-3 col-lg-3">
+            <img src="/selfies/2.jpg" class="img-thumbnail" />
+        </div>
+        <div class="col-md-3 col-lg-3">
+            <img src="/selfies/3.jpg" class="img-thumbnail" />
+        </div>
+        <div class="col-md-3 col-lg-3">
+            <img src="/selfies/4.jpg" class="img-thumbnail" />
         </div>
     </div>
-</div>
---}}
+    <br>
+    <div class="row">
+        <div class="col-md-3 col-lg-3">
+            <img src="/selfies/5.jpg" class="img-thumbnail" />
+        </div>
+        <div class="col-md-3 col-lg-3">
+            <img src="/selfies/6.jpg" class="img-thumbnail" />
+        </div>
+        <div class="col-md-3 col-lg-3">
+            <img src="/selfies/7.jpg" class="img-thumbnail" />
+        </div>
+        <div class="col-md-3 col-lg-3">
+            <img src="/selfies/8.jpg" class="img-thumbnail" />
+        </div>
+    </div>
 
+    <br>
+    <br>
+    <br>
+</div>
 {{--
 
-
-<div class="container">
+<div class="container-fluid">
     <footer>
         <div class="row">
             <div class="col-lg-12">
@@ -321,16 +337,12 @@
                 <p>Based on <a href="http://getbootstrap.com" rel="nofollow">Bootstrap</a>. Icons from <a
                             href="http://fortawesome.github.io/Font-Awesome/" rel="nofollow">Font Awesome</a>. Web fonts
                     from <a href="http://www.google.com/webfonts" rel="nofollow">Google</a>.</p>
-
             </div>
         </div>
-
     </footer>
-
-
 </div>
---}}
 
+--}}
 
 
 <!-- Modal -->
