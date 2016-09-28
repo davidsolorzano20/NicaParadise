@@ -9649,3 +9649,10 @@ h1.adventure-nica {
     font-family: 'Alex Brush', cursive;
     font-size: 7em;
     text-shadow: 3px 3px 3px  #001a5a; }
+
+.text-nica-white {
+  color: white; }
+
+.nica-left {
+  margin-left: 17px;
+  text-align: center; }

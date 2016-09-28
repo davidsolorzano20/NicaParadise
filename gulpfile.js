@@ -24,8 +24,4 @@ gulp.task('watch', function () {
     gulp.watch('./public/assets/js/nica/*.js', ['js']);
 });
 
-/*gulp.task('watch', function () {
-
-});*/
-
 gulp.task('default', ['watch']);

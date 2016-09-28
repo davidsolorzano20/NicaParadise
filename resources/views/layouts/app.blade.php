@@ -61,11 +61,11 @@
                                 <li><a href="#">Volcano Telica</a></li>
                                 <li><a href="">Juan Venado Nature Reserve</a></li>
                                 <li><a href="#">City Tour Leon</a></li>
-                                <li> <a href="#">Leon Viejo Ruins and Asososca</a></li>
-                                <li><a href="#">Asososca Horseback Riding</a> </li>
-                                <li><a href="#">San Jacinto Boiling Mud</a> </li>
+                                <li><a href="#">Leon Viejo Ruins and Asososca</a></li>
+                                <li><a href="#">Asososca Horseback Riding</a></li>
+                                <li><a href="#">San Jacinto Boiling Mud</a></li>
                                 <li><a href="#">El Hoyo Volcano</a></li>
-                                <li><a href="#">Run Factory Tour</a> </li>
+                                <li><a href="#">Run Factory Tour</a></li>
                             </ul>
                         </li>
                         <li class="dropdown-submenu">
@@ -93,7 +93,7 @@
                             <ul class="dropdown-menu nica-dropdow-menu">
                                 <li><a href="#">Tours 11 days y 10 nights</a></li>
                                 <li><a href="#">Tours 5 days y 4 nights</a></li>
-                                <li><a href="#">Tours  5 days y 4 nights</a></li>
+                                <li><a href="#">Tours 5 days y 4 nights</a></li>
                             </ul>
                         </li>
                         <li class="dropdown-submenu">
@@ -106,7 +106,7 @@
                             </ul>
                         </li>
                         <li class="dropdown-submenu">
-                            <a href="#">  Eco-Tourism</a>
+                            <a href="#"> Eco-Tourism</a>
                         </li>
                     </ul>
                 </li>
@@ -281,31 +281,31 @@
     <h1 class="center">Selfies</h1>
     <div class="row">
         <div class="col-md-3 col-lg-3">
-            <img src="/selfies/1.jpg" class="img-thumbnail" />
+            <img src="/selfies/1.jpg" class="img-thumbnail"/>
         </div>
         <div class="col-md-3 col-lg-3">
-            <img src="/selfies/2.jpg" class="img-thumbnail" />
+            <img src="/selfies/2.jpg" class="img-thumbnail"/>
         </div>
         <div class="col-md-3 col-lg-3">
-            <img src="/selfies/3.jpg" class="img-thumbnail" />
+            <img src="/selfies/3.jpg" class="img-thumbnail"/>
         </div>
         <div class="col-md-3 col-lg-3">
-            <img src="/selfies/4.jpg" class="img-thumbnail" />
+            <img src="/selfies/4.jpg" class="img-thumbnail"/>
         </div>
     </div>
     <br>
     <div class="row">
         <div class="col-md-3 col-lg-3">
-            <img src="/selfies/5.jpg" class="img-thumbnail" />
+            <img src="/selfies/5.jpg" class="img-thumbnail"/>
         </div>
         <div class="col-md-3 col-lg-3">
-            <img src="/selfies/6.jpg" class="img-thumbnail" />
+            <img src="/selfies/6.jpg" class="img-thumbnail"/>
         </div>
         <div class="col-md-3 col-lg-3">
-            <img src="/selfies/7.jpg" class="img-thumbnail" />
+            <img src="/selfies/7.jpg" class="img-thumbnail"/>
         </div>
         <div class="col-md-3 col-lg-3">
-            <img src="/selfies/8.jpg" class="img-thumbnail" />
+            <img src="/selfies/8.jpg" class="img-thumbnail"/>
         </div>
     </div>
 
@@ -313,36 +313,97 @@
     <br>
     <br>
 </div>
-{{--
 
-<div class="container-fluid">
-    <footer>
+
+<!-- START Template Footer -->
+<div class="container-fluid" style="background-image: url(/assets/background/1.png)">
+    <!-- row -->
+    <div class="row">
+        <!-- About -->
+        <div class="col-md-4">
+            <h4 class="text-muted">Why Us</h4>
+            <p class="text-muted">
+                We are a 100% Nicaraguan tour operator which
+                specializes in selling holiday Packages to
+                international and national tourists in Nicaragua.
+                Located in the heart of the colonial city of Leon-Nicaragua
+                in Nicaraguan Paradise Tours we strongly believe to meeting
+                your expectations when discovering our wonderful country
+            </p>
+
+            <a href="javascript:void(0);" class="text-success">Learn More</a>
+        </div>
+        <div class="visible-sm visible-xs" style="margin-bottom:25px;"></div>
+        <!--/ About -->
+
+        <!-- Address + Social -->
+        <div class="col-md-4 text-muted">
+            <h4 class="text-muted">Contact Us</h4>
+            <address>
+                <strong><a href="javascript:void(0)">Nicaraguan Paradise Tours.</a></strong><br>
+                <strong>Le&oacute;n - Nicaragua </strong><br>
+                <i class="fa fa-envelope-o"></i> info@nicaraguanparadisetour.com<br>
+                <i class="fa fa-phone"></i>
+                For English Speaking Call (505) 5795-4936
+            </address>
+            <h4 class="font-alt mt0">Social Networks</h4>
+            <a href="https://www.facebook.com/Nicaraguan-Paradise-Tour-1036596596391808/?fref=ts" target="_blank"
+               class="text-muted mr15" data-toggle="tooltip" title="Facebook">
+                <i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i>
+            </a>
+            <a href="https://twitter.com/NicaParadise" target="_blank" class="nica-left text-muted mr15" data-toggle="tooltip"
+               title="Twitter">
+                <i class="fa fa-twitter fa-2x"></i>
+            </a>
+            <a href="javascript:void(0);" class="text-muted mr15 nica-left" data-toggle="tooltip" title="WhatsApp">
+                <i class="fa fa-whatsapp fa-2x"></i>
+            </a>
+            <a href="https://plus.google.com/104594360112416555502" target="_blank" class=" nica-left text-muted mr15"
+               data-toggle="tooltip" title="Google+">
+                <i class="fa fa-google-plus fa-2x"></i>
+            </a>
+            <a href="https://www.instagram.com/nicaparadise_tour/" target="_blank" class="nica-left text-muted mr15"
+               data-toggle="tooltip" title="Instagram">
+                <i class="fa fa-instagram fa-2x"></i>
+            </a>
+        </div>
+        <div class="visible-sm visible-xs" style="margin-bottom:25px;"></div>
+        <!--/ Address + Social -->
+    </div>
+    <!--/ Newsletter -->
+</div>
+<!--/ row -->
+
+<!-- bottom footer -->
+<div class="container-fluid" style="background-image: url(/assets/background/1.png)">
+    <br>
+    <br>
+    <!-- container -->
+    <div class="container">
         <div class="row">
-            <div class="col-lg-12">
-
-                <ul class="list-unstyled">
-                    <li class="pull-right"><a href="#top">Back to top</a></li>
-                    <li><a href="http://news.bootswatch.com"
-                           onclick="pageTracker._link(this.href); return false;">Blog</a></li>
-                    <li><a href="http://feeds.feedburner.com/bootswatch">RSS</a></li>
-                    <li><a href="https://twitter.com/bootswatch">Twitter</a></li>
-                    <li><a href="https://github.com/thomaspark/bootswatch/">GitHub</a></li>
-                    <li><a href="./help/#api">API</a></li>
-                    <li><a href="./help/#support">Support</a></li>
-                </ul>
-                <p>Made by <a href="http://thomaspark.co" rel="nofollow">Thomas Park</a>. Contact him at <a
-                            href="mailto:thomas@bootswatch.com">thomas@bootswatch.com</a>.</p>
-                <p>Code released under the <a href="https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE">MIT
-                        License</a>.</p>
-                <p>Based on <a href="http://getbootstrap.com" rel="nofollow">Bootstrap</a>. Icons from <a
-                            href="http://fortawesome.github.io/Font-Awesome/" rel="nofollow">Font Awesome</a>. Web fonts
-                    from <a href="http://www.google.com/webfonts" rel="nofollow">Google</a>.</p>
+            <div class="col-sm-6">
+                <!-- copyright -->
+                <p class="nm text-muted">&copy; Copyright 2016 by
+                    <a href="javascript:void(0);" class="text-white">
+                        Nicaraguan Paradise Tours
+                    </a>.
+                    All Rights Reserved.
+                </p>
+                <!--/ copyright -->
+            </div>
+            <div class="col-sm-6 text-right hidden-xs">
+                <a href="javascript:void(0);" class="text-muted">Developer and Designer</a>
+                <span class="text-muted">&#8226;</span>
+                <a href="https://www.facebook.com/luis.solorzanop.9" target="_blank" class="text-white">Luis David
+                    Solorzano Paredes</a>
             </div>
         </div>
-    </footer>
+    </div>
+    <!--/ container -->
 </div>
-
---}}
+<!--/ bottom footer -->
+</div>
+<!--/ END Template Footer -->
 
 
 <!-- Modal -->
