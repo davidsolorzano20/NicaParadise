@@ -9,7 +9,7 @@
 @section('slider')
     <div class="splash vegas-slide" style="width: 100%;height: 75%;"></div>
 @endsection
-@section('title') Home - Nicaraguan Paradise Tours @endsection
+@section('title') Home @endsection
 @section('content')
     <div class="container-fluid  welcome-home">
         <h1 class="center">Welcome to Nicaraguan Paradise Tours</h1>

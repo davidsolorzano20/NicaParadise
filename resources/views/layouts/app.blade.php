@@ -10,7 +10,7 @@
     <link rel="apple-touch-icon" href="http://nicaraguanparadisetour.com/assets/images/log.png">
     <link rel="icon" href="http://nicaraguanparadisetour.com/assets/images/log.png">
 
-    <title>@yield('title')</title>
+    <title>@yield('title') - Nicaraguan Paradise Tours</title>
 
     {!! Html::style('/css/style.css') !!}
     <link href="https://fonts.googleapis.com/css?family=Alex+Brush" rel="stylesheet">

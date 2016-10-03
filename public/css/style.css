@@ -88,9 +88,10 @@ footer p {
 
 .splash {
   padding: 9em 0 2em;
-  background-color: #141d27;
-  background-size: cover;
-  background-attachment: fixed;
+  background: url(http://nicaraguanparadisetour.com/slider/5.jpg) no-repeat;
+  background-size: 100%;
+  background-position: center;
+  height: 500px;
   color: #fff;
   text-align: center; }
 

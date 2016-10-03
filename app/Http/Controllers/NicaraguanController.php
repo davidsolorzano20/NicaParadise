@@ -18,6 +18,6 @@ class NicaraguanController extends Controller {
       return view('why.us');
     }
     public function CerroNegro() {
-      return view('why.us');
+      return view('tours.cerronegro');
     }
 }
