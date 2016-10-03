@@ -7,8 +7,8 @@
     <meta name="description" content="Nicaraguan Paradise Tours">
     <meta name="keywords" content="nicaraguan, paradise, Tours">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="apple-touch-icon" href="assets/images/log.png">
-    <link rel="icon" href="assets/images/log.png">
+    <link rel="apple-touch-icon" href="http://nicaraguanparadisetour.com/assets/images/log.png">
+    <link rel="icon" href="http://nicaraguanparadisetour.com/assets/images/log.png">
 
     <title>@yield('title')</title>
 
@@ -26,7 +26,7 @@
 <div class="navbar navbar-default navbar-fixed-top border-bottom">
     <div class="container">
         <div class="navbar-header">
-            <a href="{!! url('/home') !!}" class="navbar-brand"><img src="assets/images/npt.png"></a>
+            <a href="{!! url('/home') !!}" class="navbar-brand"><img src="http://nicaraguanparadisetour.com/assets/images/npt.png"></a>
             <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -57,7 +57,7 @@
                         <li class="dropdown-submenu">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Half Day Tours</a>
                             <ul class="dropdown-menu nica-dropdow-menu">
-                                <li><a href="#">Ash Boarding in Cerro Cegro</a></li>
+                                <li><a href="{!! url('/tours/ash-boarding-in-cerro-negro') !!}">Ash Boarding in Cerro Cegro</a></li>
                                 <li><a href="#">Volcano Telica</a></li>
                                 <li><a href="">Juan Venado Nature Reserve</a></li>
                                 <li><a href="#">City Tour Leon</a></li>
@@ -191,7 +191,7 @@
         <div class="visible-sm visible-xs" style="margin-bottom:25px;"></div>
         <!--/ Address + Social -->
         <div class="col-md-4">
-           <img src="assets/images/log.png" style="height: 250px;margin-top: 10px"/>
+           <img src="http://nicaraguanparadisetour.com/assets/images/log.png" style="height: 250px;margin-top: 10px"/>
         </div>
     </div>
     <!--/ Newsletter -->

@@ -17,4 +17,7 @@ class NicaraguanController extends Controller {
     public function WhyUs() {
       return view('why.us');
     }
+    public function CerroNegro() {
+      return view('why.us');
+    }
 }

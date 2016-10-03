@@ -14,8 +14,8 @@
 Route::get('/', 'NicaraguanController@Index');
 Route::get('home', 'NicaraguanController@Home');
 Route::get('whyus', 'NicaraguanController@WhyUs');
-/*Route::get('tour/', 'NicaraguanController@Index');
-Route::get('/', 'NicaraguanController@Index');
+Route::get('tours/ash-boarding-in-cerro-negro', 'NicaraguanController@CerroNegro');
+/*Route::get('/', 'NicaraguanController@Index');
 Route::get('/', 'NicaraguanController@Index');
 Route::get('/', 'NicaraguanController@Index');
 Route::get('/', 'NicaraguanController@Index');
