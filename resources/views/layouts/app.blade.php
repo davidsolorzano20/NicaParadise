@@ -369,6 +369,9 @@
         </div>
         <div class="visible-sm visible-xs" style="margin-bottom:25px;"></div>
         <!--/ Address + Social -->
+        <div class="col-md-4">
+           <img src="assets/images/log.png" style="height: 250px;margin-top: 10px"/>
+        </div>
     </div>
     <!--/ Newsletter -->
 </div>
