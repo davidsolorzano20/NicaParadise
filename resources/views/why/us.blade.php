@@ -13,7 +13,7 @@
     <div class="splash vegas-slide" style="width: 100%;height: 75%;"></div>
 @endsection
 @section('content')
-    <div class="container-fluid  welcome-home">
+    <div class="container-fluid border-b welcome-home">
         <h1 class="center">Why Us</h1>
         <br>
     </div>
