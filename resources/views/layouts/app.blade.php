@@ -151,7 +151,7 @@
                 your expectations when discovering our wonderful country
             </p>
 
-            <a href="javascript:void(0);" class="text-success">Learn More</a>
+            <a href="{!! url('/whyus') !!}" class="text-success">Learn More</a>
         </div>
         <div class="visible-sm visible-xs" style="margin-bottom:25px;"></div>
         <!--/ About -->

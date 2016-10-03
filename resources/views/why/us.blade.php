@@ -10,10 +10,10 @@
 @extends('layouts.app')
 @section('title') Why Us @endsection
 @section('slider')
-    <div class="splash vegas-slide border-b" style="width: 100%;height: 75%;"></div>
+    <div class="splash vegas-slide" style="width: 100%;height: 75%;"></div>
 @endsection
 @section('content')
-    <div class="container-fluid  welcome-home border-b">
+    <div class="container-fluid  welcome-home">
         <h1 class="center">Why Us</h1>
         <br>
     </div>
