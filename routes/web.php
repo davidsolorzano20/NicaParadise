@@ -13,8 +13,8 @@
 
 Route::get('/', 'NicaraguanController@Index');
 Route::get('home', 'NicaraguanController@Home');
-/*Route::get('whyus', 'NicaraguanController@Index');
-Route::get('tour/', 'NicaraguanController@Index');
+Route::get('whyus', 'NicaraguanController@WhyUs');
+/*Route::get('tour/', 'NicaraguanController@Index');
 Route::get('/', 'NicaraguanController@Index');
 Route::get('/', 'NicaraguanController@Index');
 Route::get('/', 'NicaraguanController@Index');

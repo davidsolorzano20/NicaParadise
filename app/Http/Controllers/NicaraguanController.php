@@ -14,4 +14,7 @@ class NicaraguanController extends Controller {
     public function Home() {
       return view('home.home');
     }
+    public function WhyUs() {
+      return view('why.us');
+    }
 }
