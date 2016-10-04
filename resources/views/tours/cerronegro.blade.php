@@ -16,7 +16,7 @@
     </div>
 @endsection
 @section('content')
-    <div class="container-fluid  welcome-home" style="background:url(http://nicaraguanparadisetour.com/background/3.png)">
+    <div class="container-fluid  welcome-home" style="background:url(http://nicaraguanparadisetour.com/assets/background/3.png)">
         <h1 class="center">Ash Boarding in Cerro Negro!</h1>
         <br>
     </div>
