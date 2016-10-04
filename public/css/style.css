@@ -9686,7 +9686,8 @@ h1.adventure-nica {
 
 .nica-dark {
   background: #001a5a;
-  color: #ffffff; }
+  color: #ffffff;
+  border-bottom: 2px solid #d3e0e9; }
   .nica-dark h1 {
     font-family: 'Alex Brush', cursive;
     font-size: 3em;
